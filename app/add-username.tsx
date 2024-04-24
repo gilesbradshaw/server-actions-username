@@ -1,3 +1,4 @@
+"use server"
 type AddUsername = {
     success: false;
     error: string;
